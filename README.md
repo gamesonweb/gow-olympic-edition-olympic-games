@@ -1,5 +1,8 @@
 # Projet Games On Web 2024 : Olympic Games
 # Sommaire :
+- [Jouer au jeu](#jouer-au-jeu)
+    - [Lien du jeu](#lien-du-jeu)
+	- [Installation (Local)](#installation-local)
 - [Introduction](#introduction)
 	- [Condition de Participation](#condition-de-participation)
 	- [Formations participantes au concours](#formations-participantes-au-concours)
@@ -19,8 +22,20 @@
 - [Conception](#conception)
 	- [Menu de Navigations](#menu-de-navigations)
 	- [Classes du Jeu](#classes-du-jeu)
+	- [Modèle 3D](#modèle-3d)
 	- [Conception Architecture Fichier](#conception-architecture-fichier)
+	- [Vidéo de Gameplay](#vidéo-de-gameplay)
 
+
+# Jouer au jeu :
+
+## Lien du jeu :
+
+- En cours de développement
+
+## Installation (Local):
+
+- En cours de développement
 
 # Introduction :
 
@@ -33,8 +48,6 @@
 - IUT Nice Côte d'Azur et Aix-Marseille,
 
 - Polytech Nice-Sophia,
-
-
 
 
 ### Objectifs :
@@ -164,22 +177,20 @@ Le jeu de natation est un mini-jeu qui simule une course de natation. Le joueur 
 
 ## Menu de Navigations :
 
-![alt text](navigation.png)
+![alt text](./img/navigation.png)
 
 ## Classes du Jeu :
 
-![alt text](classe.png)
+![alt text](./img/classe.png)
+
+## Modèle 3D :
+
+![alt text](./img/modele3D.png)
 
 ## Conception Architecture Fichier :
 
-- lib : contient les fichiers contenant les librairies et classes utilisées
-  - HUD : contient les fichiers de la classe HUD
-  - Scene : contient les fichiers de la classe Scene
-  - Player : contient les fichiers de la classe Player
-- app.js : fichier principal du jeu
-- style.css : fichier de style du jeu
-- index.html : fichier d'entrée du jeu
+En Cours
 
-Lemine Mahjoub
+## Vidéo de Gameplay :
 
-Bon README présentant votre équipe, votre projet, vos galères, vos satisfactions, des screenshots, vidéos possibles ici aussi.
+En Cours
